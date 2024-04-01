@@ -1,0 +1,18 @@
+/*Estilização Pagina Me Conheça*/
+
+body{
+    background-color: black;
+}
+
+section.conheça{
+    padding: 40px 4%;
+}
+
+section.conheça .flex{
+    align-items: center;
+    gap: 60px;
+}
+
+.conheça .txt{
+    color: white;
+}

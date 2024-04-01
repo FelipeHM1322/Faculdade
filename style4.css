@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+section.portifolio{
+    padding: 80px 4%;
+}
+
+.img-port{
+    width: 320px;
+    height: 512px;
+    background-size: cover;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.interface h2{
+    color: white;
+}
